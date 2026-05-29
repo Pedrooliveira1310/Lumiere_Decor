@@ -1,0 +1,98 @@
+[
+    {
+        "id": "vem-de-hexa",
+        "nome": "Vem de Hexa",
+        "capacidade": "15-30 Pessoas",
+        "valor": 2500,
+        "imagem": "uploads/pacotes/Pactes_esporte.png",
+        "categoria": "esporte"
+    },
+    {
+        "id": "fan-fest-30",
+        "nome": "Fan Fest 30 Pessoas",
+        "capacidade": "30 Pessoas",
+        "valor": 3500,
+        "imagem": "uploads/pacotes/pacotes_fut.png",
+        "categoria": "esporte"
+    },
+    {
+        "id": "fan-fest-40",
+        "nome": "Fan Fest 40 Pessoas",
+        "capacidade": "40 Pessoas",
+        "valor": 4500,
+        "imagem": "uploads/pacotes/Pacotes_basket.png",
+        "categoria": "esporte"
+    },
+    {
+        "id": "fan-fest-50",
+        "nome": "Fan Fest 50 Pessoas",
+        "capacidade": "50 Pessoas",
+        "valor": 5000,
+        "imagem": "uploads/pacotes/Pacote_boxe.png",
+        "categoria": "esporte"
+    },
+    {
+        "id": "fan-fest-60",
+        "nome": "Fan Fest 60 Pessoas",
+        "capacidade": "40-60 Pessoas",
+        "valor": 5000,
+        "imagem": "uploads/pacotes/Pacote-rockey.png",
+        "categoria": "esporte"
+    },
+    {
+        "id": "festa-aniversario",
+        "nome": "Festa de Aniversário",
+        "capacidade": "40-80 Pessoas",
+        "valor": 4200,
+        "imagem": "uploads/pacotes/Pcotes_aniver.png",
+        "categoria": "festa"
+    },
+    {
+        "id": "casamento-classico",
+        "nome": "Casamento Clássico",
+        "capacidade": "80-120 Pessoas",
+        "valor": 6500,
+        "imagem": "uploads/pacotes/Pacote_casamento.png",
+        "categoria": "casamento"
+    },
+    {
+        "id": "casamento-deluxe",
+        "nome": "Casamento Deluxe",
+        "capacidade": "100-150 Pessoas",
+        "valor": 7800,
+        "imagem": "uploads/pacotes/Pacote_casamento (1).png",
+        "categoria": "casamento"
+    },
+    {
+        "id": "formatura-premium",
+        "nome": "Formatura Premium",
+        "capacidade": "60-90 Pessoas",
+        "valor": 6200,
+        "imagem": "uploads/pacotes/Pacotes_formatura.png",
+        "categoria": "festa"
+    },
+    {
+        "id": "evento-corporativo",
+        "nome": "Evento Corporativo",
+        "capacidade": "50-80 Pessoas",
+        "valor": 5100,
+        "imagem": "uploads/pacotes/Pacotes_corportaibo.png",
+        "categoria": "festa"
+    },
+    {
+        "id": "lounge-verde",
+        "nome": "Lounge Verde",
+        "capacidade": "30-50 Pessoas",
+        "valor": 3900,
+        "imagem": "uploads/pacotes/Louge_verde.png",
+        "categoria": "festa"
+    },
+    {
+        "id": "mesa-marmore",
+        "nome": "Mesa de Mármore",
+        "capacidade": "10-20 Pessoas",
+        "valor": 2800,
+        "imagem": "uploads/pacotes/Mesa_marmore.png",
+        "categoria": "festa"
+    }
+]

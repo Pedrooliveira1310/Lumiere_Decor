@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "modelo": "Fan Fest 60 Pessoas",
+        "tipo": "pacote",
+        "detalhes": "Pacote: 60 Pessoas — Diária R$ 5.000,00",
+        "status": "alugado",
+        "cliente": "Pedro",
+        "dias": 1,
+        "data_aluguel": "2026-05-29",
+        "diaria": 5000,
+        "valor_total": 5000
+    },
+    {
+        "id": 2,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "detalhes": "Pacote: 15-30 Pessoas — Diária R$ 2.500,00 ",
+        "status": "disponivel",
+        "cliente": null,
+        "dias": null,
+        "data_aluguel": null,
+        "diaria": 2500,
+        "valor_total": 75000
+    },
+    {
+        "id": 3,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "detalhes": "Pacote: 15-30 Pessoas — Diária R$ 2.500,00",
+        "status": "disponivel",
+        "cliente": null,
+        "dias": null,
+        "data_aluguel": null,
+        "diaria": 2500,
+        "valor_total": 12500
+    },
+    {
+        "id": 4,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "detalhes": "Pacote: 15-30 Pessoas — Diária R$ 2.500,00 — Total R$ 7.500,00",
+        "status": "disponivel",
+        "cliente": null,
+        "dias": null,
+        "data_aluguel": null,
+        "diaria": 2500,
+        "valor_total": 7500
+    }
+]

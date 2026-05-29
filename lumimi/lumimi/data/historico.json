@@ -1,0 +1,24 @@
+[
+    {
+        "username": "Pedro",
+        "item_id": 4,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "dias": 3,
+        "diaria": 2500,
+        "valor_total": 7500,
+        "rented_at": "2026-05-29 11:29:16",
+        "id": 1
+    },
+    {
+        "username": "Pedro",
+        "item_id": 1,
+        "modelo": "Fan Fest 60 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 5000,
+        "valor_total": 5000,
+        "rented_at": "2026-05-29 16:44:08",
+        "id": 2
+    }
+]

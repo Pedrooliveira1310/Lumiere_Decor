@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "senha": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "perfil": "admin"
+    },
+    {
+        "id": 2,
+        "username": "usuario",
+        "senha": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "perfil": "usuario"
+    },
+    {
+        "id": 3,
+        "username": "Nicolas",
+        "senha": "$2y$12$n5GiKl0XrsSpoDMpfjSLI.ct.143QfBq7TZioLXV6TfIJCWZCRPEi",
+        "perfil": "usuario"
+    },
+    {
+        "id": 4,
+        "username": "Radael",
+        "senha": "$2y$12$8lKjmjtZY\/qKn0GZkgQY3.OVbY4WHegKNyPandbqks5d6\/lkDIfaS",
+        "perfil": "usuario"
+    },
+    {
+        "id": 5,
+        "username": "dronhathesigma",
+        "senha": "$2y$12$M1pa3pMHcMjnVD\/SHHv7vOYJoUYIefiear69uZwenASs6cBTlsygi",
+        "perfil": "usuario"
+    },
+    {
+        "id": 6,
+        "username": "Pedro",
+        "senha": "$2y$12$gSSAdDJifBIuY9br2sQfBOhYrB5yy6K0NMZIbDWGz2\/6NBCbmoSuy",
+        "perfil": "usuario"
+    }
+]
