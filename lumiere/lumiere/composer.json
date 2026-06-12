@@ -1,0 +1,9 @@
+{
+  "name": "lumiere/decor",
+  "autoload": {
+    "psr-4": {
+      "Lumiere\\": "src/"
+    }
+  },
+  "require": {}
+}

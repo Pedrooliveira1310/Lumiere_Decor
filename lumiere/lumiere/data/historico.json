@@ -1,0 +1,156 @@
+[
+    {
+        "username": "Pedro",
+        "item_id": 4,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "dias": 3,
+        "diaria": 2500,
+        "valor_total": 7500,
+        "rented_at": "2026-05-29 11:29:16",
+        "id": 1
+    },
+    {
+        "username": "Pedro",
+        "item_id": 1,
+        "modelo": "Fan Fest 60 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 5000,
+        "valor_total": 5000,
+        "rented_at": "2026-05-29 16:44:08",
+        "id": 2
+    },
+    {
+        "username": "amopenis",
+        "item_id": 2,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "dias": 5,
+        "diaria": 2500,
+        "valor_total": 12500,
+        "rented_at": "2026-06-11 12:04:56",
+        "id": 3
+    },
+    {
+        "username": "amopenis",
+        "item_id": 5,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 2500,
+        "valor_total": 2500,
+        "rented_at": "2026-06-11 12:05:21",
+        "id": 4
+    },
+    {
+        "username": "amopenis",
+        "item_id": 4,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 2500,
+        "valor_total": 2500,
+        "rented_at": "2026-06-11 12:06:38",
+        "id": 5
+    },
+    {
+        "username": "Radael",
+        "item_id": 2,
+        "modelo": "Fan Fest 30 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 3500,
+        "valor_total": 3500,
+        "rented_at": "2026-06-11 13:09:43",
+        "id": 6
+    },
+    {
+        "username": "Radael",
+        "item_id": 1,
+        "modelo": "Fan Fest 60 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 5000,
+        "valor_total": 5000,
+        "rented_at": "2026-06-11 13:12:00",
+        "id": 7
+    },
+    {
+        "username": "Radael",
+        "item_id": 2,
+        "modelo": "Fan Fest 30 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 3500,
+        "valor_total": 3500,
+        "rented_at": "2026-06-11 13:12:05",
+        "id": 8
+    },
+    {
+        "username": "Radael",
+        "item_id": 3,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 2500,
+        "valor_total": 2500,
+        "rented_at": "2026-06-11 13:12:25",
+        "id": 9
+    },
+    {
+        "username": "Radael",
+        "item_id": 1,
+        "modelo": "Fan Fest 60 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 5000,
+        "valor_total": 5000,
+        "rented_at": "2026-06-11 13:12:31",
+        "id": 10
+    },
+    {
+        "username": "Radael",
+        "item_id": 4,
+        "modelo": "Vem de Hexa",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 2500,
+        "valor_total": 2500,
+        "rented_at": "2026-06-11 13:16:39",
+        "id": 11
+    },
+    {
+        "username": "Radael",
+        "item_id": 2,
+        "modelo": "Fan Fest 30 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 3500,
+        "valor_total": 3500,
+        "rented_at": "2026-06-11 13:16:52",
+        "id": 12
+    },
+    {
+        "username": "Radael",
+        "item_id": 5,
+        "modelo": "Fan Fest 60 Pessoas",
+        "tipo": "pacote",
+        "dias": 1,
+        "diaria": 5000,
+        "valor_total": 5000,
+        "rented_at": "2026-06-11 13:19:26",
+        "id": 13
+    },
+    {
+        "username": "Radael",
+        "item_id": 5,
+        "modelo": "Fan Fest 30 Pessoas",
+        "tipo": "pacote",
+        "dias": 3,
+        "diaria": 3500,
+        "valor_total": 10500,
+        "rented_at": "2026-06-11 16:24:26",
+        "id": 14
+    }
+]
